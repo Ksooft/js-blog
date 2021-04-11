@@ -1,2 +1,2 @@
-# A Practice Blog in native JavaScript
+# Blog in native JavaScript
 [**View demo**](https://js-blog-training.web.app)
